@@ -31,6 +31,8 @@ npm start
 
 ## Deploy on Render
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/neelesh1303/SmartV2V)
+
 The repo includes `render.yaml`. On Render: **New → Blueprint** (or **New → Web Service**) → connect this repo.
 Build command `npm install`, start command `npm start`. WebSockets work out of the box.
 
